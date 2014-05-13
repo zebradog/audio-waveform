@@ -1,7 +1,7 @@
-audio-waveform
-==============
-
 Display and adjust the waveform of an audio file using javascript.
+
+Demo: http://zebradog.github.io/audio-waveform
+
 
 Audio files sourced from:
 
